@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ángel Glitch",
+    "drop": "YAYO DROP / 01",
+    "badge": null,
+    "images": [
+      { "src": "images/angel-glitch-frente.jpg", "label": "Frente" },
+      { "src": "images/angel-glitch-espalda.jpg", "label": "Espalda" }
+    ]
+  },
+  {
+    "name": "Tiger Core",
+    "drop": "YAYO DROP / 02",
+    "badge": "FAN FAVORITE",
+    "images": [
+      { "src": "images/tiger-core-frente.jpg", "label": "Frente" },
+      { "src": "images/tiger-core-espalda.jpg", "label": "Espalda" }
+    ]
+  },
+  {
+    "name": "Electric Fallen",
+    "drop": "YAYO DROP / 03",
+    "badge": null,
+    "img": "images/electric-fallen.jpg"
+  }
+]
