@@ -9,18 +9,21 @@
     ]
   },
   {
-    "name": "Tiger Core",
+    "name": "Nanami Overtime",
     "drop": "YAYO DROP / 02",
-    "badge": "FAN FAVORITE",
+    "badge": "JJK Fans",
     "images": [
-      { "src": "images/tiger-core-frente.jpg", "label": "Frente" },
-      { "src": "images/tiger-core-espalda.jpg", "label": "Espalda" }
+      { "src": "images/nanami1-frente.png", "label": "Frente" },
+      { "src": "images/nanami1-detras.png", "label": "Espalda" }
     ]
   },
   {
-    "name": "Electric Fallen",
-    "drop": "YAYO DROP / 03",
-    "badge": null,
-    "img": "images/electric-fallen.jpg"
+    "name": "Itachi Bio",
+    "drop": "YAYO DROP / 02",
+    "badge": "Naru Fans",
+    "images": [
+      { "src": "images/itachi1-frente.png", "label": "Frente" },
+      { "src": "images/itachi1-detras.png", "label": "Espalda" }
+    ]
   }
 ]
