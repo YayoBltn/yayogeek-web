@@ -5,7 +5,7 @@
     "badge": "Spidey Fans",
     "images": [
       { "src": "images/spidey1-frente.png", "label": "Frente" },
-      { "src": "images/spiey1-detras.png", "label": "Espalda" }
+      { "src": "images/spidey1-detras.png", "label": "Espalda" }
     ]
   },
   {
