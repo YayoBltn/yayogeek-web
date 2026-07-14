@@ -1,11 +1,11 @@
 [
   {
-    "name": "Ángel Glitch",
+    "name": "SpiderMan Comic",
     "drop": "YAYO DROP / 01",
-    "badge": null,
+    "badge": "Spidey Fans",
     "images": [
-      { "src": "images/angel-glitch-frente.jpg", "label": "Frente" },
-      { "src": "images/angel-glitch-espalda.jpg", "label": "Espalda" }
+      { "src": "images/spidey1-frente.png", "label": "Frente" },
+      { "src": "images/spiey1-detras.png", "label": "Espalda" }
     ]
   },
   {
